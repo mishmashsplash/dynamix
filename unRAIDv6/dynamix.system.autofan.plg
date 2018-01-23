@@ -1,11 +1,11 @@
 <?xml version='1.0' standalone='yes'?>
 
 <!DOCTYPE PLUGIN [
-<!ENTITY name      "dynamix.system.autofan">
+<!ENTITY name      "dynamix.system.autofan1">
 <!ENTITY author    "Bergware/gfjardim">
 <!ENTITY version   "2017.10.15">
 <!ENTITY launch    "Settings/FanSettings">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/&name;.plg">
+<!ENTITY pluginURL "https://raw.githubusercontent.com/mishmashsplash/dynamix/master/unRAIDv6/dynamix.system.autofan.plg">
 <!ENTITY source    "/boot/config/plugins/&name;/&name;">
 <!ENTITY MD5       "ad3af00081ad9a6cec8d27368f315449">
 ]>
